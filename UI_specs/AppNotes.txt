@@ -1,0 +1,30 @@
+Challenges, Bragging, Stats
+
+Accept Fitness Challenges
+
+Create a Challenge
+-Challenge Moderator - Joe
+	Public or Private
+	-Define the Challenge - Losing Weight
+		-Start Date and End Date
+		-Frequncy of Postings
+	-Rules of the Challenge
+	-Members of the Challenge - Joe, Thedy, Diego
+		-Send Invites
+	-Prize for Winner - Statement of Prize, rewards managed amongst users
+	
+Member of Challenge 
+-Member in the lead
+	---Options---
+		-Group Stats
+		-Chat
+		-Log Progress
+-Listview Button -Helpful Articles for Challenge
+
+
+
+
+
+
+--Later Release
+	-App Manages Payout
